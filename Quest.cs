@@ -2,6 +2,9 @@
 
 namespace QuesToolApp
 {
+    /// <summary>
+    /// Represents a Quest.
+    /// </summary>
     public abstract class Quest
     {
         public string Name;
